@@ -7,4 +7,4 @@ AI makes a move based on the idea smiliar to decision tree with depth 2. It trie
 
 
 ## How to run
-Clone the project, compile the cpp file, then run it
+Clone the project, compile the cpp file, run it
